@@ -247,6 +247,10 @@ only screen and (min-resolution: 192dpi) {
   border-color: #ccc;
   margin-left:15px;
 }
+.toggl-button.bitbucket-pr {
+  border-color: #ccc;
+  margin-left:15px;
+}
 
 /********* GITHUB *********/
 .toggl-button.github {
